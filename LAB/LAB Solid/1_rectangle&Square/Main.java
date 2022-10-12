@@ -1,5 +1,4 @@
-package com.solid.lsp;
-
+// package com.solid.lsp;
 
 public class Main {
 

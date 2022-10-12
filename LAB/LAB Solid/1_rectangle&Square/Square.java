@@ -1,4 +1,4 @@
-package com.solid.lsp;
+// package com.solid.lsp;
 
 class Square extends Rectangle {
     Square(int side) {
